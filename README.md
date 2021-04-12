@@ -7,9 +7,11 @@ To start the game they must click the play button in Visual Studio Code
 
 In this game, the snake becomes bigger when they eat the food.
 
-The snake will automatically move up and down
+The snake will automatically in the direction it is facing
 
 The user can move the snake left or right using the left or right button in the keyboard
+
+The user can move the snake up or down using the up or down button in the keyboard
 
 As the snake gets bigger the score becomes bigger
 
