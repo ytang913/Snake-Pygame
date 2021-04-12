@@ -20,7 +20,7 @@ If the snake touches itself or exits the screen, the user will lose the game
 When the user loses, they can restart the game.
 
 # Documentation
-The code consists of Pygame, Python functions, and Python classes
+The code consists of Pygame, functions, if/else statments, for loops, and while loops
 
 # Result when the user starts the game initially
 ![](images/snakePygameThumbnail.jpg)
