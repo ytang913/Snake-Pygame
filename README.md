@@ -20,6 +20,8 @@ When the user loses, they can restart the game.
 # Documentation
 The code consists of Pygame, Python functions, and Python classes
 
-# Result when the user plays the game initially
+# Result when the user starts the game initially
+
+# Result when the user plays the game 
 
 # Result when the user loses the game
