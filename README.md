@@ -21,7 +21,8 @@ When the user loses, they can restart the game.
 The code consists of Pygame, Python functions, and Python classes
 
 # Result when the user starts the game initially
-
+![](images/snakePygameThumbnail.jpg)
 # Result when the user plays the game 
-
+![](images/snakePygameplaying.jpg)
 # Result when the user loses the game
+![](images/snakePygameGameOver.jpg)
