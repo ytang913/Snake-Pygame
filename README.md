@@ -26,5 +26,7 @@ The code consists of Pygame, Python functions, and Python classes
 ![](images/snakePygameThumbnail.jpg)
 # Result when the user plays the game 
 ![](images/snakePygameplaying.jpg)
-# Result when the user loses the game
+# Result when the user loses the game from exiting the screen 
 ![](images/snakePygameGameOver.jpg)
+# Result when the user loses the game from the snake touching itself
+![](images/snakePygameGameOverII.jpg)
