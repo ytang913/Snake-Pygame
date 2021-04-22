@@ -20,7 +20,12 @@ If the snake touches itself or exits the screen, the user will lose the game
 When the user loses, they can restart the game.
 
 # Documentation
-The code consists of Pygame, functions, if/else statments, for loops, and while loops
+
+Pygame is used to create the screen, initiate the game, and end the game
+
+Python functions are used for the snake when it moves out of bounds or touches itself, within the Python function are if/else statements. 
+
+A while loop is used for the game functionality itself 
 
 # Result when the user starts the game initially
 ![](images/snakePygameThumbnail.jpg)
