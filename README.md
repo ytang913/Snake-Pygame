@@ -23,9 +23,11 @@ When the user loses, they can restart the game.
 
 Pygame is used to create the screen, initiate the game, and end the game
 
-Python functions are used for the snake when it moves out of bounds or touches itself, within the Python function are if/else statements. 
+Python functions are used for the snake when it moves out of bounds or touches itself, within these Python function are if/else statements. 
 
-A while loop is used for the game functionality itself 
+A while loop is used for the snake movement, the snake eating the food, the snake growing bigger when eating the food, and having the game start over if the snake is out of bounds or touches iteslf
+
+Within the while loop there are for loops and if/else statements 
 
 # Result when the user starts the game initially
 ![](images/snakePygameThumbnail.jpg)
