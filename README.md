@@ -1,7 +1,7 @@
 # Snake Pygame
 
 # About
-This project is a snake game, that is built with Python and Pygame in Visual Studio Code.
+This project is a snake game, built with Python and Pygame in Visual Studio Code.
 
 To start the game they must click the play button in Visual Studio Code
 
